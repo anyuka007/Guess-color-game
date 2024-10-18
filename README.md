@@ -1,3 +1,5 @@
+GitHub Pages: https://anyuka007.github.io/guess-color-game/
+
 **DE:** Das Spiel ist ein Farb-Ratespiel. Das Spiel testet die Fähigkeit des Spielers, Farben zu erkennen und zu erraten.
 
 *Spielmodi:*  Zwei Modi: "easy" (3 Quadrate) und "hard" (6 Quadrate). Modi können durch Buttons geändert werden.
